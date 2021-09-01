@@ -1,0 +1,118 @@
+/* Made by SCHWITZ   */
+ /* Instagram - harshbhardwaj_6969 */
+/*  website https://shitz.cf  */
+
+@import 'https://fonts.googleapis.com/css?family=Montserrat:300, 400, 700&display=swap';
+
+*{
+    font-family: "Montserrat", sans-serif;
+}
+/* Navbar Start */
+.navbar-brand,.navbar{
+    padding: 2%;
+}
+
+/* Navbar End */
+
+/* Main Start */
+#home .main h1{
+    font-size: 3rem;
+}
+
+#home .main  {
+    width:100%;
+    color: #fff;
+    background-color: #ff4c68;
+    padding:8% 5% ;
+    
+}
+.row button{
+    margin: 1.7% 0 0 0;
+}
+span{
+    color:black;
+    font-weight: bold;
+}
+span:hover{
+    color:powderblue;
+}
+
+.btn a {
+    color: white;
+    text-decoration: none;
+}
+.btn span{
+    color:crimson;
+}
+
+.bta a:hover{
+    color:white;
+}
+
+/* Main End */
+
+.about{
+    flex-direction: column;
+	text-align: center;
+    height: 90vh;
+    margin: 0 auto;
+    align-items: center;
+    padding: 100px 0;
+	justify-content: center;
+
+}
+
+.about span{
+    color:crimson;
+}
+
+.about h1{
+
+}
+
+/* About Start */
+
+
+
+/* About End */
+
+
+/* Contact Start */
+.contact{
+    flex-direction: column;
+	text-align: center;
+    height: 90vh;
+    margin: 0 auto;
+    align-items: center;
+    padding: 100px 0;
+	justify-content: center;
+
+}
+.contact span{
+    color:crimson;
+}
+
+.contact a{
+    text-decoration:none;
+    color: black;
+}
+
+/* Contact End */
+
+/* footer Start */
+
+.footer a{
+    color:white;
+    text-decoration:none;
+}
+.footer span{
+    color:crimson;
+}
+
+.footer{
+    text-align:center;
+}
+
+/* Made by SCHWITZ   */
+ /* Instagram - harshbhardwaj_6969 */
+/*  website https://shitz.cf  */
