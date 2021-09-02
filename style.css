@@ -1,16 +1,31 @@
 /* Made by SCHWITZ   */
 /*  Instagram - harshbhardwaj_6969  */
 /* https://github.com/SCH18TZ  */
+/* Discord - SCHWITZ#3875  */
 /*  website https://shitz.cf  */
 
 @import 'https://fonts.googleapis.com/css?family=Montserrat:300, 400, 700&display=swap';
 
+html{
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+
 *{
     font-family: "Montserrat", sans-serif;
 }
+
+
 /* Navbar Start */
-.navbar-brand,.navbar{
-    padding: 2%;
+.navbar-nav,.navbar-brand{
+    margin: 0 5%;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+
+.nav-item{
+    padding: 0 20px;
 }
 
 /* Navbar End */
@@ -142,11 +157,11 @@ span:hover{
 
   }
 
-
 /* Media Queries End */
 
 
 /* Made by SCHWITZ   */
 /*  Instagram - harshbhardwaj_6969  */
 /* https://github.com/SCH18TZ  */
+/* Discord - SCHWITZ#3875  */
 /*  website https://shitz.cf  */
